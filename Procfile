@@ -1,1 +1,1 @@
-worker: node index.js GonkasBOT
+worker: node index.js
